@@ -1,0 +1,37 @@
+UFO Controller — NOTICE
+=======================
+
+【メーカー非公式ツールについて】
+
+本アプリ「UFO Controller」は、VORZE 製品の個人開発による非公式ツールです。
+VORZE・ピーナッツクラブ社・その他いかなるメーカー・団体とも無関係です。
+本ツールはメーカーの公式サポート対象外です。
+
+製品名・商標について: VORZE・UFO-TW・UFO SA・Cyclone SA・Piston SA は、
+各権利者の商標または登録商標です。
+
+使用は自己責任でお願いします。
+本ツールの使用により生じたいかなる損害についても、開発者は責任を負いません。
+
+
+【使用オープンソースライブラリ】
+
+bleak
+  License : MIT License
+  Copyright (c) 2019, Henrik Blidh
+  https://github.com/hbldh/bleak
+
+pygame
+  License : GNU Lesser General Public License v2.1 (LGPL)
+  Copyright (c) 2000-2024, pygame contributors
+  https://www.pygame.org/
+
+Python
+  License : Python Software Foundation License Version 2
+  Copyright (c) 2001-2024, Python Software Foundation
+  https://www.python.org/
+
+PyInstaller
+  License : GNU General Public License v2 (with bootloader exception)
+  Copyright (c) 2010-2024, PyInstaller Development Team
+  https://pyinstaller.org/
